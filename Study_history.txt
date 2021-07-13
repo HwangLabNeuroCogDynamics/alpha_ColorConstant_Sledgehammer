@@ -1,0 +1,7 @@
+
+##### July 08 2021 #####
+- Edited the stimulus script to make it so that subjects can respond during the 600ms probe instead 
+	of having to wait to the response period. Subs on and before today would have the other version
+	of the script, so their fast RT's also somewhat reflect processing during the Probe. 
+	Have to inspect those to see if there are many trials in which an RT wasn't recorded
+	because maybe they were responding during the Probe.
